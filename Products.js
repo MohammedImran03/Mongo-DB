@@ -838,4 +838,4 @@ db.product.aggregate([
   db.product.remove({ product_price: 47 });
 
   //Output
- // Products daleted from the data
+ // Products deleted from the data
